@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ravikiran7161/serverless#readme",
   "devDependencies": {
+    "serverless": "^1.39.1",
     "serverless-offline": "^4.9.1"
   }
 }
