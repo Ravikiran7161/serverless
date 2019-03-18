@@ -1,0 +1,22 @@
+{
+  "name": "service00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravikiran7161/serverless.git"
+  },
+  "author": "RaviKiran",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ravikiran7161/serverless/issues"
+  },
+  "homepage": "https://github.com/Ravikiran7161/serverless#readme",
+  "devDependencies": {
+    "serverless-offline": "^4.9.1"
+  }
+}
